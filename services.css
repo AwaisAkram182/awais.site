@@ -1,0 +1,872 @@
+*{
+    padding:0;
+    margin:0; 
+    
+   }
+   body{
+    background-color:#fafcfc;
+   }
+   #navbar{
+    display: flex;
+    background-color:  #3f6857 ; 
+    height: 100px;  
+   }
+ #fur{
+    color:rgb(7, 7, 7);
+    font-size: 33px;
+    color:white;
+    font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+ }
+ #do{
+    color:rgb(51, 64, 78);
+    font-size:30px;
+    margin-top: 33px;
+    margin-left: 2px;
+    
+ }
+ #furni{
+    margin-top: 28px;
+    margin-left: 115px;
+     
+ }
+ #home{
+  margin-top: 43px;
+ }
+ #homeclick{
+    font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+    font-size: 22px;
+    color:white;
+     
+    margin-left: 270px;
+    text-decoration: none;
+    font-weight: bold;
+ }
+ #homeclick:hover{
+    border-bottom: 4px  solid  #d3a910;
+  }
+ #shopclick:hover{
+   border-bottom: 4px  solid  #d3a910;
+ }
+ #shop{
+    margin-top: 44px; 
+     margin-left: 45px;
+     font-weight: bold;
+     
+    
+ }
+ #shopclick{
+  /* margin-top: -75px;  */
+  /* margin-left: 45px; */
+  font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+  font-size: 22px;
+  color:white;
+  text-decoration: none;
+ }
+ 
+#usclick{
+ font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+ font-size: 22px;
+ color:white;
+ text-decoration: none;
+ font-weight: bold;
+}
+#usclick:hover{
+ border-bottom: 4px  solid  #d3a910;
+}
+ #about1{
+    margin-top: 44px;
+     margin-left: 45px;
+     color: white;
+ }
+ #servicelink{
+    font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+    font-size: 23px;
+    color:white;
+    font-weight: bolder;
+    text-decoration: none;
+    border-bottom: 4px  solid  #d3a910;
+      
+ }
+ #ser:hover{
+   border-bottom: 4px  solid  #d3a910;
+ }
+ #services{
+     margin-left: 45px;
+     margin-top: 42px;
+ }
+ #bloglink{
+   font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+   font-size: 22px;
+   color:white;
+   font-weight: bolder;
+   text-decoration: none;
+ }
+ #bloglink:hover{
+  border-bottom: 4px  solid  #d3a910;
+ }
+ #blog{
+     margin-left: 45px;
+     margin-top: 45px;
+ }
+ 
+ #contactlink{
+   font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+   font-size: 22px;
+   color:white;
+   text-decoration: none;
+   font-weight: bolder;
+}
+#contactlink:hover{
+  border-bottom: 4px  solid  #d3a910;
+}
+ #contact{
+     margin-left: 45px;
+     margin-top: 45px;
+
+ }
+ #use{
+    font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    font-size: 27px;
+    color:white;
+ }
+ #user{
+     margin-left: 55px;
+     margin-top: 42px;
+     height:36px;
+ }
+ #user:hover{
+   border-bottom: 4px  solid  #d3a910; 
+ }
+ #ca{
+    font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    font-size: 27px;
+     
+    color:white;
+ }
+ #cart{
+   margin-top: 45px;
+   height: 36px;  
+   margin-left: 33px;
+ }
+ #cart:hover{
+   border-bottom: 4px  solid  #d3a910;
+ }
+ /* explore button and sofa sectin*/
+ #contentnavbar{
+    
+    background-color:   #3f6857; 
+    height: 490px;  
+   }
+#mess{
+    color:white;
+    padding-top: 105px;
+    margin-left: 115px;
+    font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+    font-size:50px;
+    color:  #3f6857 ;
+}
+#des{
+    color:white;
+    margin-left: 115px;
+    font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+    font-size:50px;
+}
+#para{
+    font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 115px;
+    margin-top: 40px;
+    color:  #b3b8b8;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: lighter;
+}
+#para2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 115px;
+    margin-top: 15px;
+    color:   #b3b8b8;
+    font-weight: lighter;
+}
+#shopt{
+ height:50px;
+ width:150px;
+ border: 2px solid transparent;
+ margin-left: 124px;
+ margin-top: 38px;
+ background-color: #e0ad1f;
+ border: 2px solid    #e0ad1f;
+ border-bottom-left-radius: 35px;
+ border-top-left-radius: 35px;
+ border-top-right-radius: 35px;
+ border-bottom-right-radius: 35px;
+}
+ #now{
+   color: #292f35;
+ }
+ #exploree{
+   height:50px;
+   width:150px;
+   border: 2px solid transparent;
+   margin-left: 3px;
+   margin-top: 38px;
+   background-color:  #3f6857;
+   border: 2px solid    #dad7cd;
+   border-bottom-left-radius: 35px;
+   border-top-left-radius: 35px;
+   border-top-right-radius: 35px;
+   border-bottom-right-radius: 35px;
+  }
+  #remove{
+   color: white;
+   text-decoration: none;
+  }
+  #remove2{
+   color: white;
+   text-decoration: none;
+  }
+   #ex{
+     color:white;
+   }
+ #mainimage{
+     margin-left: 648px;
+     background-image: url(" https://untree.co/demos/furni/images/couch.png");
+     background-size: cover;
+     height:524px;
+     width:700px;
+     margin-top: -366px;
+     display: flex;
+     justify-content: center;
+ }
+ #chairshoppingg{
+    margin-top: 10px;
+    height: 1200px;
+    background-color:white;
+    
+ }
+ #chair111{
+    background-image:url("chair1.png");
+    background-size: cover;
+    height:350px;
+    width:280px;
+    margin-left: 150px;
+    margin-top: 120px;
+ }  
+ #chair1txtt{
+    padding-top:360px;
+    margin-left: 127px;
+    font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+    font-size:20px;
+    color:#111111;
+    font-weight: lighter;
+ }
+ #price111{
+    margin-top: 12px;
+    margin-left: 150px;
+    font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+    font-size:20px;
+    color:#111111;
+    font-weight: bolder;
+ }
+ #chair222{
+    
+    background-image:url("chair2.png");
+    background-size: cover;
+    height:475px;
+    width:390px;
+    margin-left: 455px;
+    margin-top: -420px;
+ }  
+ #chair2txtt{
+    padding-top:430px;
+    margin-left: 161px;
+    font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+    font-size:20px;
+    color:#111111;
+    font-weight: lighter;
+ }
+ #price222{
+    margin-top: 13px;
+    margin-left: 203px;
+    font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+    font-size:20px;
+    color:#111111;
+    font-weight: bolder;
+ }
+ #chair333{
+    background-image:url("chair31.png");
+    background-size: cover;
+    height:359px;
+    width:300px;
+    margin-left: 895px;
+    margin-top: -410px;
+ }  
+ #chair3txtt{
+    padding-top:368px;
+    margin-left: 121px;
+    font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+    font-size:20px;
+    color:#111111;
+    font-weight: lighter;
+ }
+ #price33{
+    margin-top: 12px;
+    margin-left: 150px;
+    font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+    font-size:20px;
+    color:#111111;
+    font-weight: bolder;
+ }
+ #chair444{
+    background-image:url("fottter.png");
+    background-size: cover;
+    height:410px;
+    width:300px;
+    margin-left: 505px;
+    margin-top: 40px;
+ }  
+ #chair4txtt{
+    padding-top:450px;
+    margin-left: 117px;
+    font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+    font-size:21px;
+    color:#111111;
+    font-weight: lighter;
+ }
+ #price444{
+    margin-top: 12px;
+    margin-left: 146px;
+    font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+    font-size:21px;
+    color:#111111;
+    font-weight: bolder;
+ }
+ #footerr{
+   height:700px;
+   width:100%;
+   background-color:#fafafc;
+  }
+  #messiconn{
+   margin-left: 138px;
+   font-size: 23px;
+  }
+  #subscribee{
+   margin-left: 175px;
+   margin-top: -29px;
+   color:  #1b3329 ; 
+   font-weight: lighter;
+   font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+   font-size:23px;
+  }
+  #enternamee{
+   font-weight: lighter;
+   font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+   font-size:25px;
+   height: 48px;
+   width:300px;
+   margin-left: 138px;
+   margin-top: 10px;
+   border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-color: #424141;
+   border: 1px solid #616060;
+   font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+   color:#1d1b1b;
+   font-weight: lighter;
+   font-size: 18px; 
+  }
+  #maill{
+   font-weight: lighter;
+   font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+   font-size:25px;
+   height: 48px;
+   width:300px;
+   margin-left: 10px;
+   margin-top: 10px;
+   border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+   border: 1px solid #616060;
+   font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+   color:#1d1b1b;
+   font-weight: lighter;
+   font-size: 18px;
+  }
+  #paperplanee{
+   height: 38px;
+   width:90px;
+   display: flex;
+   justify-content: center;
+   background-color:  #3f6857 ; 
+   border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+   margin-left: 780px;
+   margin-top: -50px;
+   padding-top: 13px;
+   color: white;
+  }
+  #paperplanee:hover{
+    background-color:#124933
+  }
+  #fotterimagee{
+   background-image: url("fottter.png");
+   height:500px;
+   width:380px;
+   border-radius: 6%;
+   background-size: contain;
+   margin-left: 920px;
+   margin-top: -350px;
+  }
+  #furni22{
+   margin-left: 143px;
+   margin-top: -29px;
+   color:  #1b3329 ; 
+   font-weight: Bold;
+   font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+   font-size:37px;
+  }
+  #footertxt11{
+   margin-left: 143px;
+   margin-top:32px;
+   color:  #616060;
+   font-weight: lighter;
+   font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+   font-size:17px;
+  }
+  #footertxt22{
+   margin-left: 143px;
+   margin-top:12px;
+   color:  #616060;
+   font-weight: lighter;
+   font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+   font-size:17px;
+  }
+  #footertxt33{
+   margin-left: 143px;
+   margin-top:12px;
+   color:  #616060;
+   font-weight: lighter;
+   font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+   font-size:17px;
+  }
+  #footertxt44{
+   margin-left: 143px;
+   margin-top:12px;
+   color:  #616060;
+   font-weight: lighter;
+   font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+   font-size:17px;
+  }
+  #footertxt55{
+   margin-left: 143px;
+   margin-top:12px;
+   color:  #616060;
+   font-weight: lighter;
+   font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+   font-size:17px;
+  }
+  #aboutus22{
+   margin-left: 575px;
+   margin-top:-151px;
+   color:  #111111;
+   font-weight: lighter;
+   font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+   font-size:17px;
+  }
+  #aboutstylee{
+   color:  #111111;
+   font-weight: lighter;
+   font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+   font-size:17px;
+   text-decoration: none;
+  }
+  #services22{
+   margin-left: 575px;
+   margin-top:25px;
+   color:  #111111;
+   font-weight: lighter;
+   font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+   font-size:17px;
+  }
+  #servicesstylee{
+   color:  #111111;
+   font-weight: lighter;
+   font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+   font-size:17px;
+   margin-top:25px;
+   text-decoration: none;
+  }
+  #blog22{
+   margin-left: 575px;
+   margin-top:25px;
+   color:  #111111;
+   font-weight: lighter;
+   font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+   font-size:17px;
+  }
+  #blogstylee{
+   color:  #111111;
+   font-weight: lighter;
+   font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+   font-size:17px;
+   margin-top:25px;
+   text-decoration: none;
+  }
+  #contactus22{
+   margin-left: 575px;
+   margin-top:25px;
+   color:  #111111;
+   font-weight: lighter;
+   font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+   font-size:17px;
+  }
+  #contactstylee{
+   margin-top:25px;
+   color:  #111111;
+   font-weight: lighter;
+   font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+   font-size:17px;
+   text-decoration: none;
+  }
+  #livechatt{
+   margin-left: 740px;
+   margin-top:-155px;
+   color:  #111111;
+   font-weight: lighter;
+   font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+   font-size:17px;
+  }
+  #livestylee{
+   margin-top:-155px;
+   color:  #111111;
+   font-weight: lighter;
+   font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+   font-size:17px;
+   text-decoration: none;
+  }
+  #support22{
+   margin-left: 740px;
+   margin-top:25px;
+   color:  #111111;
+   font-weight: lighter;
+   font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+   font-size:17px;
+  }
+  #supportstylee{
+   margin-top:25px;
+   color:  #111111;
+   font-weight: lighter;
+   font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+   font-size:17px;
+   text-decoration: none;
+  }
+  #knowledgee{
+   margin-left: 740px;
+   margin-top:25px;
+   color:  #111111;
+   font-weight: lighter;
+   font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+   font-size:17px;
+  }
+  #knowledgestylee{
+   margin-top:25px;
+   color:  #111111;
+   font-weight: lighter;
+   font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+   font-size:17px;
+   text-decoration: none;
+  }
+  #privacyy{
+   margin-left: 918px;
+   margin-top:-110px;
+   color:  #111111;
+   font-weight: lighter;
+   font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+   font-size:17px;
+  }
+  #privacystylee{
+   margin-top:-110px;
+   color:  #111111;
+   font-weight: lighter;
+   font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+   font-size:17px;
+   text-decoration: none;
+  }
+  #jobss{
+   margin-left: 918px;
+   margin-top:25px;
+   color:  #111111;
+   font-weight: lighter;
+   font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+   font-size:17px;
+  }
+  #jobsstylee{
+   margin-top:25px;
+   color:  #111111;
+   font-weight: lighter;
+   font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+   font-size:17px;
+   text-decoration: none;
+  }
+  #teamm{
+   margin-left: 918px;
+   margin-top:25px;
+   color:  #111111;
+   font-weight: lighter;
+   font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+   font-size:17px;
+  }
+  #teamstylee{
+   margin-top:25px;
+   color:  #111111;
+   font-weight: lighter;
+   font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+   font-size:17px;
+   text-decoration: none;
+  }
+  #leadershipp{
+   margin-left: 918px;
+   margin-top:25px;
+   color:  #111111;
+   font-weight: lighter;
+   font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+   font-size:17px;
+  }
+  #leadershipstylee{
+   margin-top:25px;
+   color:  #111111;
+   font-weight: lighter;
+   font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+   font-size:17px;
+   text-decoration: none;
+  }
+  #NordicChairr{
+   margin-left: 1110px;
+   margin-top:-155px;
+   color:  #111111;
+   font-weight: lighter;
+   font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+   font-size:17px;
+  }
+  #nordicstylee{
+   margin-top:-155px;
+   color:  #111111;
+   font-weight: lighter;
+   font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+   font-size:17px;
+   text-decoration: none;
+  }
+  #KruzoAeroo{
+   margin-left: 1110px;
+   margin-top:25px;
+   color:  #111111;
+   font-weight: lighter;
+   font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+   font-size:17px;
+  }
+  #kruzostylee{
+   margin-top:25px;
+   color:  #111111;
+   font-weight: lighter;
+   font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+   font-size:17px;
+   text-decoration: none;
+  }
+  #ErgonomicChairr{
+   margin-left: 1110px;
+   margin-top:25px;
+   color:  #111111;
+   font-weight: lighter;
+   font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+   font-size:17px;
+  }
+  #ergonomicstylee{
+   margin-top:25px;
+   color:  #111111;
+   font-weight: lighter;
+   font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+   font-size:17px;
+   text-decoration: none;
+  }
+  #fbstylee{
+   color:#1e4233;
+   font-size: 16px; 
+   padding-top: 17px;
+   
+  }
+  #facebookk{
+   height:47px;
+   width:47px;
+   background-color:#d7dde2;
+   display:flex ;
+   margin-top: 80px;
+   justify-content: center;
+   margin-left: 140px;
+   border-top-left-radius: 45px;
+   border-top-right-radius: 45px;
+   border-bottom-left-radius: 45px;
+   border-bottom-right-radius: 45px;
+ 
+  }
+  #twittercolorr{
+   color:#1e4233;
+   font-size: 16px;
+   padding-top: 17px;
+  }
+  #twitterr{
+   height:47px;
+   width:47px;
+   background-color:#d7dde2;
+   display:flex ;
+   margin-top: -47px;
+   justify-content: center;
+   margin-left: 195px;
+   border-top-left-radius: 45px;
+   border-top-right-radius: 45px;
+   border-bottom-left-radius: 45px;
+   border-bottom-right-radius: 45px;
+ 
+  }
+  #instacolorr{
+   color:#1e4233;
+   font-size: 16px;
+   padding-top: 17px;
+  }
+  #instaa{
+   height:47px;
+   width:47px;
+   background-color:#d7dde2;
+   display:flex ;
+   margin-top: -47px;
+   justify-content: center;
+   margin-left: 250px;
+   border-top-left-radius: 45px;
+   border-top-right-radius: 45px;
+   border-bottom-left-radius: 45px;
+   border-bottom-right-radius: 45px;
+ 
+  }
+  #linkdencolorr{
+   color:#1e4233;
+   font-size: 16px;
+   padding-top: 17px;
+  }
+  #linkdenn{
+   height:47px;
+   width:47px;
+   background-color:#d7dde2;
+   display:flex ;
+   margin-top: -47px;
+   justify-content: center;
+   margin-left: 305px;
+   border-top-left-radius: 45px;
+   border-top-right-radius: 45px;
+   border-bottom-left-radius: 45px;
+   border-bottom-right-radius: 45px;
+ 
+  }
+  #line155{
+   height:1px;
+   width:83%;
+   margin-top: 80px;
+   margin-left: 136px;
+   background-color:#b1afaf ;
+  }
+  #linefotterr{
+   height:0.5px;
+   width:83%;
+   margin-top: 90px;
+   margin-left: 136px;
+   background-color:#b1afaf ;
+  }
+  #copyrightt{
+   color:  #616060;
+   font-weight: lighter;
+   font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+   font-size:16px;
+   margin-top: 40px;
+   margin-left: 135px;
+  }
+  #unboldd{
+   color:  #111111;
+   font-weight: lighter;
+   font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+   font-size:16px;
+   margin-top: -19px;
+   margin-left: 576px;
+   text-decoration: none;
+  }
+  #unboldstylee{
+   color:  #111111;
+   font-weight: lighter;
+   font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+   font-size:16px;
+   margin-top: -19px;
+   text-decoration: none;
+  }
+  #designnn{
+   color:  #616060;
+   font-weight: lighter;
+   font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+   font-size:16px;
+   margin-top: 10px;
+   margin-left: 135px;
+  }
+  #awaisboldd{
+   color:  #111111;
+   font-weight: lighter;
+   font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+   font-size:16px;
+   margin-top: -19px;
+   margin-left: 238px;
+  }
+  #awaisstylee{
+   color:  #111111;
+   font-weight: lighter;
+   font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+   font-size:16px;
+   margin-top: -19px;
+   text-decoration: none;
+  }
+  #termm{
+   color:  #111111;
+   font-weight: lighter;
+   font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+   font-size:16px;
+   margin-top: -48px;
+   margin-left: 935px;
+  }
+  #termstylee{
+   color:  #111111;
+   font-weight: lighter;
+   font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+   font-size:16px;
+   margin-top: -48px;
+   text-decoration: none;
+  }
+  #belowlinee{
+   height:150px;
+   background-color:#fafafc;
+  }
+  #Privacy55{
+   color:  #111111;
+   font-weight: lighter;
+   font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+   font-size:16px;
+   margin-top: -19px;
+   margin-left: 1090px;
+  }
+  #privacy5stylee{
+   color:  #111111;
+   font-weight: lighter;
+   font-family:Cambria, Georgia, Times, 'Times New Roman', serif;
+   font-size:16px;
+   margin-top: -19px;
+   text-decoration:none ;
+  }
+  
